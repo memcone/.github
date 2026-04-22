@@ -6,8 +6,6 @@ the backend memcone repo is here:
 
 if you want the memory engine, you want mem
 
-if you want the full product, docs, dashboard, cli, and site, you want memcone
-
 mem powers the core primitives:
 remember, recall, and context
 
